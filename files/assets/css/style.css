@@ -15718,7 +15718,11 @@ table.footable-paging-center>tfoot>tr.footable-paging>td {
 .bg-simple-c-green {
     background: #0ac282
 }
-
+.bg-simple-c-grey {
+    background: #606966
+}.bg-simple-c-red {
+    background: #ed4f67
+}
 .text-c-green {
     color: #0ac282
 }
